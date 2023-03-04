@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+#h1 {
+    font-size:75px;
+    word-spacing:20px;
+    font-variant:small-caps;
+  }
+  #cover {
+    width:500px;
+    height:500px;
+    border-style:solid;
+    padding:5px;
+    border-color:#352000;
+  }
